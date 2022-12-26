@@ -6,3 +6,5 @@ This was a fun but challenging project to do which gave me new insites and knowl
 Found this project online and started out with a Business problem and tried to solve the task at hand.
 
 I have attached the whole Power BI file for closer look at the project, and at the same time attached screenshots of the Business problem, Data cleaning, Data model and Dashboard.
+
+Tool used: Microsoft SQL Server Management Studio and Azure Data Studio. Had to download SQL Express server for this project.
