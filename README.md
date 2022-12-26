@@ -5,4 +5,4 @@ I have been going through tutorials and taking course in datacamp.com learning t
 This was a fun but challenging project to do which gave me new insites and knowledge about the field of Data analysis.
 Found this project online and started out with a Business problem and tried to solve the task at hand.
 
-Power BI file attached.
+I have attached the whole Power BI file for closer look at the project, and at the same time attached screenshots of the Business problem, Data cleaning, Data model and Dashboard.
