@@ -12,3 +12,4 @@ Tool used:
 - Azure Data Studio
 - SQL Express server
 - DAX formatter online
+- Power BI
